@@ -28,6 +28,7 @@ public class MainController {
 
         while (this.start) {
             startMenu();
+            System.out.println("Bla bla");
             parseInput(scanner.nextLine());
 
         }
